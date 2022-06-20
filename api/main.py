@@ -77,7 +77,7 @@ def random_post(num: int = 1):
 
 @app.get("/post", tags=["API"], summary="返回指定链接的所有文章")
 def post(link: str = None, num: int = 7, rule: str = "created"):
-    '''返回指定链接的数据库内文章信息列表
+    """返回指定链接的数据库内文章信息列表
     - link: 链接地址
     - num: 指定链接的文章信息列表 按rule排序后的顺序的前num篇
     - rule: 文章排序规则（创建时间/更新时间）
