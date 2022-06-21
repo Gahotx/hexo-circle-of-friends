@@ -34,12 +34,12 @@ SETTINGS_FRIENDS_LINKS = {
     "enable": True,
     "json_api": "",
     "list": [
-        ["Butterfly", "https://github.com/jerryc127/hexo-theme-butterfly/commits/dev.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
-        ["Twikoo", "https://github.com/imaegoo/twikoo/commits/main.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
-        ["标签插件", "https://github.com/Akilarlxh/hexo-butterfly-tag-plugins-plus/commits/master.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
-        ["Akilar", "https://akilar.gitee.io/", "https://cdn.gahotx.cn/friends/aki.jpg"],
-        ["Sikn", "https://oolo.cc/index.php/feed", "https://cdn.gahotx.cn/friends/sikn.gif"],
-        ["JanYork", "https://blog.ideaopen.cn/index.php/feed", "https://cdn.gahotx.cn/friends/janyork.jpg"]
+        ["Butterfly", "https://github.com/jerryc127/hexo-theme-butterfly/commits/dev", "https://cdn.gahotx.cn/photo/github.jpg", ".atom"],
+        ["Twikoo", "https://github.com/imaegoo/twikoo/commits/main", "https://cdn.gahotx.cn/photo/github.jpg", ".atom"],
+        ["标签插件", "https://github.com/Akilarlxh/hexo-butterfly-tag-plugins-plus/commits/master", "https://cdn.gahotx.cn/photo/github.jpg", ".atom"],
+        ["Akilar", "https://akilar.gitee.io/", "https://cdn.gahotx.cn/friends/aki.jpg", "atom.xml"],
+        ["Sikn", "https://oolo.cc/", "https://cdn.gahotx.cn/friends/sikn.gif", "index.php/feed"],
+        ["JanYork", "https://blog.ideaopen.cn/", "https://cdn.gahotx.cn/friends/janyork.jpg", "index.php/feed"]
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
