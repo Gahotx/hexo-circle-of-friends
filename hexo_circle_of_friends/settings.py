@@ -37,7 +37,9 @@ SETTINGS_FRIENDS_LINKS = {
         ["Butterfly", "https://github.com/jerryc127/hexo-theme-butterfly/commits/dev.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
         ["Twikoo", "https://github.com/imaegoo/twikoo/commits/main.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
         ["标签插件", "https://github.com/Akilarlxh/hexo-butterfly-tag-plugins-plus/commits/master.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
-        ["Akilar", "https://akilar.gitee.io/", "https://cdn.gahotx.cn/friends/aki.jpg"]
+        ["Akilar", "https://akilar.gitee.io/atom.xml", "https://cdn.gahotx.cn/friends/aki.jpg"],
+        ["Sikn", "https://oolo.cc/index.php/feed/", "https://cdn.gahotx.cn/friends/sikn.gif"],
+        ["JanYork", "https://blog.ideaopen.cn/index.php/feed/", "https://cdn.gahotx.cn/friends/janyork.jpg"]
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
@@ -69,7 +71,8 @@ GITHUB_FRIENDS_LINKS = {
 # block site list
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE = [
-    "https://gahotx.cn/"
+    "https://gahotx.cn/",
+    "https://hexo.io/zh-cn/"
 ]
 
 # 启用HTTP代理，此项设为True，并且需要添加一个环境变量，名称为PROXY，值为[IP]:[端口]，比如：192.168.1.106:8080
