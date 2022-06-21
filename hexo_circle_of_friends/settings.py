@@ -38,8 +38,8 @@ SETTINGS_FRIENDS_LINKS = {
         ["Twikoo", "https://github.com/imaegoo/twikoo/commits/main.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
         ["标签插件", "https://github.com/Akilarlxh/hexo-butterfly-tag-plugins-plus/commits/master.atom", "https://cdn.gahotx.cn/photo/github.jpg"],
         ["Akilar", "https://akilar.gitee.io/", "https://cdn.gahotx.cn/friends/aki.jpg"],
-        ["Sikn", "https://oolo.cc/index.php/feed/", "https://cdn.gahotx.cn/friends/sikn.gif"],
-        ["JanYork", "https://blog.ideaopen.cn/index.php/feed/", "https://cdn.gahotx.cn/friends/janyork.jpg"]
+        ["Sikn", "https://oolo.cc/index.php/feed", "https://cdn.gahotx.cn/friends/sikn.gif"],
+        ["JanYork", "https://blog.ideaopen.cn/index.php/feed", "https://cdn.gahotx.cn/friends/janyork.jpg"]
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
