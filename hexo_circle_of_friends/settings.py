@@ -76,7 +76,10 @@ BLOCK_SITE = [
     "https://akilar.top/",
     "https://www.talkxj.com/",
     "https://www.wyc.rest/",
-    "https://jinjis.cn/"
+    "https://jinjis.cn/",
+    "https://oolo.cc/",
+    "https://blog.ideaopen.cn/",
+    "https://www.aohuiliu.fun/"
 ]
 
 # 启用HTTP代理，此项设为True，并且需要添加一个环境变量，名称为PROXY，值为[IP]:[端口]，比如：192.168.1.106:8080
