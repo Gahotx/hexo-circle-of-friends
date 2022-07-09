@@ -75,14 +75,15 @@ BLOCK_SITE = [
     "https://www.talkxj.com/",
     "https://www.wyc.rest/",
     "https://www.aohuiliu.fun/",
-    "https://blog.cnortles.top/"
+    "https://blog.cnortles.top/",
+    "https://lzxjack.top/"
 ]
 
 # 启用HTTP代理，此项设为True，并且需要添加一个环境变量，名称为PROXY，值为[IP]:[端口]，比如：192.168.1.106:8080
 HTTP_PROXY = False
 
 # 过期文章清除（天）
-OUTDATE_CLEAN = 60
+OUTDATE_CLEAN = 100
 
 # 存储方式，可选项：leancloud，mysql，sqlite，mongodb；默认为leancloud
 DATABASE = "sqlite"
