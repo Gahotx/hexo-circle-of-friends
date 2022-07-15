@@ -76,7 +76,8 @@ BLOCK_SITE = [
     "https://www.wyc.rest/",
     "https://www.aohuiliu.fun/",
     "https://blog.cnortles.top/",
-    "https://lzxjack.top/"
+    "https://lzxjack.top/",
+    "https://www.chuckle.top/"
 ]
 
 # 启用HTTP代理，此项设为True，并且需要添加一个环境变量，名称为PROXY，值为[IP]:[端口]，比如：192.168.1.106:8080
